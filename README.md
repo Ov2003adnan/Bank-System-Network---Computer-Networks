@@ -1,4 +1,4 @@
-# Bank System Network - Meezan Bank (Cisco Packet Tracer)
+# Bank System Network - (Cisco Packet Tracer)
 
 ## Project Overview
 This project involves designing and implementing a complete network infrastructure for Meezan Bank Ltd. in Islamabad, Pakistan. The network ensures efficient banking and insurance services by integrating VLANs, DHCP, SSH, OSPF, and essential servers such as HTTP and Email. 
